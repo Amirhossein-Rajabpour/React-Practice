@@ -1,0 +1,8 @@
+.buttonsContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    border-color: black;
+    /* background-color: burlywood; */
+  }
